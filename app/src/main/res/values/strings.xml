@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">mi_votacion</string>
     <string name="nombre_main">Nombre</string>
+    <string name="EditCedula">Cedula</string>
+    <string name="EditFecha">Fecha de Nacimiento</string>
+    <string name="Votacion">Votacion: </string>
+    <string name="Enviar">Enviar</string>
+    <string name="muestraNombre">Nombre: </string>
+    <string name="muestraCedula">Cedula: </string>
+    <string name="muestraFecha">Fecha de Nacimiento: </string>
+    <string name="Confirmar">Confirmar</string>
 </resources>
